@@ -1,5 +1,4 @@
-[![Build status](https://dev.azure.com/DMK-PLUS/KM%20PLUS/_apis/build/status/KM%20PLUS-ASP.NET%20Core-CI)](https://dev.azure.com/DMK-PLUS/KM%20PLUS/_build/latest?definitionId=1)
-
+[![Build Status](https://dev.azure.com/DMK-PLUS/KM%20PLUS/_apis/build/status/KM%20PLUS-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/DMK-PLUS/KM%20PLUS/_build/latest?definitionId=1&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
